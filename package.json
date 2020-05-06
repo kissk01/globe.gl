@@ -9,7 +9,7 @@
   "types": "dist/globe.gl.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vasturiano/globe.gl.git"
+    "url": "git+https://github.com/kissk01/globe.gl.git"
   },
   "keywords": [
     "webgl",
